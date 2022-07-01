@@ -1,5 +1,7 @@
 - This project is created in Logseq, and hosted as a static website.
 - To get a better use experience, you may need to access these content via website or import it into online logseq.
-	- Open website
+	- Open website: https://cloud-native-tutorials-anddd7.vercel.app/
+	- Open via logseq (editable)
 		-
--
+		- Enter https://logseq.com/
+		- Click 'Open a local folder'
