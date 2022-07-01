@@ -1,3 +1,3 @@
 - This project is created in Logseq, and hosted as a static website.
-- To get a better use experience, you may need to
+- To get a better use experience, you may need a weisite
 -
