@@ -7,4 +7,4 @@
 		- Click 'Open a local folder'
 			- -> Click 'Open' in top-left menu
 				- -> Select the repo
-		- Explore and enjoy
+		- Explore and Enjoy~
