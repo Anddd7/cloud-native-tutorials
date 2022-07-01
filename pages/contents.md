@@ -1,5 +1,4 @@
-- DONE build the session structure, create template for course
-- TODO add introduction for first set of course
+-
 - TODO add instruction of these resources (README)
 - TODO add content for 001
 - TODO add content for 002
@@ -8,6 +7,7 @@
 - TODO add content for 005
 - TODO add content for 006
 - TODO add content for 007
+- # [[How to start]]
 -
 - [[000. 七进七出, 畅游云原生]]
 	- [[001. 云原生是什么]]
@@ -19,3 +19,6 @@
 	- [[007. 云原生正在颠覆技术圈吗]]
 -
 - [[100. Kubernetes, 新的北极星]]
+	- ...
+	- ...
+	- ...
