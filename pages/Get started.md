@@ -1,2 +1,3 @@
 - This project is created in Logseq, and hosted as a static website.
-- TO
+- To get a better use experience, you may need to
+-
