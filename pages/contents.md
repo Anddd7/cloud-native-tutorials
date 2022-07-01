@@ -9,7 +9,7 @@
 - #+BEGIN_CENTER
   Welcome to #Cloud-Native tutorials
   Please according to the [[Get started]] to get a better use experience.
-  *Powered by [Logseq](https://logseq.com), a*
+  *Powered by [Logseq](https://logseq.com) , a brilliant PKM*
   #+END_CENTER
 -
 - [[000. 七进七出, 畅游云原生]]
