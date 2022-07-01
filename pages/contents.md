@@ -1,4 +1,4 @@
-- TODO build the session structure
+- TODO build the session structure, create template for course
 - TODO add content for 001
 - TODO add content for 002
 - TODO add content for 003
@@ -7,7 +7,7 @@
 - TODO add content for 006
 - TODO add content for 007
 -
-- “七周七” - 入场云原生（概念、历史、行业)
+-
 	- [[001. 云原生是什么]]
 	- [[002. 容器]]
 	- [[003. k8s 快速入门]]
