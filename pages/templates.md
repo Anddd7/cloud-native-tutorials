@@ -6,5 +6,12 @@
 		- a
 		- b
 		- c
-	- # explaination
-		-
+	- ## explanation
+		- a
+		- b
+		- c
+	- ## how-to-guides
+	- ## reference-guides
+		- a
+		- b
+		- c
