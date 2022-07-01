@@ -6,5 +6,6 @@
 		- Enter https://logseq.com/
 		- Click 'Open a local folder'
 			- -> Click 'Open' in top-left menu
+			  ![image.png](../assets/image_1656658003437_0.png)
 				- -> Select the repo
 		- Explore and Enjoy~
