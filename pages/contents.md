@@ -1,7 +1,8 @@
-- TODO build the
+- TODO build the session structure
+- TODO add content for
 -
 - “七周七” - 入场云原生（概念、历史、行业)
-	- 1. 云原生是什么
+	- 1. [[]]云原生是什么
 	- 2. 容器
 	- 3. k8s 快速入门
 	- 4. k8s 核心原理
