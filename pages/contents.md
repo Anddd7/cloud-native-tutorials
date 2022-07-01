@@ -1,5 +1,6 @@
 - TODO build the session structure, create template for course
-- TODO add introduction for first set of couse
+- TODO add introduction for first set of course
+- TODO
 - TODO add content for 001
 - TODO add content for 002
 - TODO add content for 003
