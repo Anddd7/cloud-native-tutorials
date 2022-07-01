@@ -1,4 +1,6 @@
 - This project is created in Logseq, and hosted as a static website.
 - To get a better use experience, you may need to access these content via website or import it into online logseq.
-	- Open
+	- Open website
+		- Github Pages
+		- Vercel
 -
