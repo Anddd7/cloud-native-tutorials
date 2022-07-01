@@ -4,4 +4,7 @@
 	- Open via logseq (editable)
 		- Clone this repo `git clone https://github.com/Anddd7/cloud-native-tutorials`
 		- Enter https://logseq.com/
-		- Click 'Open a local folder' -> Click 'Open' in top-left menu
+		- Click 'Open a local folder'
+			- -> Click 'Open' in top-left menu
+				- -> Select the repo
+		- explore everything you want
