@@ -70,6 +70,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
+ :default-home {:page "Contents"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -109,7 +110,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {}
+ :shortcuts {:editor/collapse-block-children "meta+dash", :command/run "meta+shift+1", :editor/forward-kill-word "meta+w", :editor/expand-block-children "meta+equals", :editor/select-all-blocks "meta+a", :editor/paste-text-in-one-block-at-point "shift+ctrl+v", :editor/zoom-out "shift+meta+b", :go/search-in-page "meta+f", :editor/replace-block-reference-at-point "shift+ctrl+r", :go/search "shift+meta+o", :editor/kill-line-before "meta+u", :command-palette/toggle "shift+meta+a", :editor/forward-word "meta shift f", :ui/toggle-contents "t 1", :editor/toggle-open-blocks "shift+meta+equals", :editor/open-link-in-sidebar "shift+meta+r", :editor/italics "i i", :editor/cycle-todo "meta+d", :editor/insert-link "l l", :editor/highlight "h h", :editor/clear-block "meta+l", :ui/toggle-brackets "t 9", :editor/bold "b b", :ui/open-new-window "meta+t", :editor/zoom-in "meta+b"}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
