@@ -1,1 +1,2 @@
-- This project is created in Logseq, and hosted
+- This project is created in Logseq, and hosted as a static website.
+-
