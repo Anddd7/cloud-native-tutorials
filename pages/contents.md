@@ -1,4 +1,4 @@
-- TODO build the session structure, create template for course
+- DONE build the session structure, create template for course
 - TODO add introduction for first set of course
 - TODO add instruction of these resources (README)
 - TODO add content for 001
@@ -11,8 +11,8 @@
 -
 - 000 —— 七周七
 	- [[001. 云原生是什么]]
-	- [[002. 容器]]
-	- [[003. k8s 快速入门]]
+	- [[002. 容器 - 云原生的基石]]
+	- [[003. Kubernetes 快速入门]]
 	- [[004. k8s 核心原理]]
 	- [[005. service mesh]]
 	- [[006. 多运行时]]

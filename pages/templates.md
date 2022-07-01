@@ -1,4 +1,6 @@
 - session
+  template:: session-template
+  template-including-parent:: false
 	- #+BEGIN_NOTE
 	  introduction introduction introduction introduction introduction introduction introduction introduction introduction.  
 	  #+END_NOTE
